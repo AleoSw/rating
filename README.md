@@ -1,4 +1,4 @@
-# Interactive rating component solution - Alwo
+# Interactive rating component solution - Aleo
 
 ### The challenge
 
@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com](https://github.com/AleoSw/rating)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AleoSw/rating]
+- - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
 
